@@ -1,7 +1,7 @@
 import Header from "@/components/layout/Header"
 import React from "react"
 
-const Home:React.FC = () => {
+const Home: React.FC = () => {
   return (
     <div className="flex flex-col h-screen">
       <Header />
